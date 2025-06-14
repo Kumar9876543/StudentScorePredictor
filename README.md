@@ -9,7 +9,7 @@ This is a simple **Streamlit web app** that uses **Linear Regression** to predic
 - Interactive Streamlit interface
 
 ## 📷 Demo Screenshot
-![screenshot](screenshot.png) <!-- Add if you want -->
+![screenshot](screenshot smp.png) <!-- Add if you want -->
 
 ## 🚀 Tech Stack
 - Python
